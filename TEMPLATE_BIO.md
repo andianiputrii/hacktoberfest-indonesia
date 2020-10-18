@@ -4,20 +4,21 @@
 
 ### Provisi & Kota
 
-Provinsi , Kota
+Kepri , Batam
 
 ### Sekolah / Akademik
 
 
 ### Hobi
 
-- Begadang
+- Random
 
 
 ### Bahasa Pemograman 
 
 - PHP
 - HTML
+- C/C++
 
 ### Project
 
@@ -25,4 +26,4 @@ Provinsi , Kota
 
 ### Profile Link
 
-[Nama](https://github.com/username)
+[Andiani Putri](https://github.com/andianiputrii)
